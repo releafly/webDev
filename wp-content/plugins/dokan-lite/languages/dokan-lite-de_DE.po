@@ -3391,7 +3391,7 @@ msgstr ""
 
 #: templates/orders/date-export.php:45
 msgid "Export All"
-msgstr ""
+msgstr "Test"
 
 #: templates/orders/date-export.php:35 templates/products/listing-filter.php:42
 msgid "Filter"

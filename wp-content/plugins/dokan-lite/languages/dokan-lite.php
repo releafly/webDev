@@ -1,5 +1,6 @@
 <?php
 return [
+	__( 'Export All', 'dokan-lite' ),
 	__( 'Select Color', 'dokan-lite' ),
 	__( 'Clear', 'dokan-lite' ),
 	__( 'Close', 'dokan-lite' ),

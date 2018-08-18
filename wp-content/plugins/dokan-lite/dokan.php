@@ -213,6 +213,7 @@ final class WeDevs_Dokan {
      *
      * @uses load_plugin_textdomain()
      */
+
     public function localization_setup() {
         load_plugin_textdomain( 'dokan-lite', false, dirname( plugin_basename( __FILE__ ) ) . '/languages/' );
     }
