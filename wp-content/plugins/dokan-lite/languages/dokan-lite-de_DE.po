@@ -3371,7 +3371,7 @@ msgstr "Gutscheine"
 
 #: templates/orders/details.php:38
 msgid "Totals"
-msgstr ""
+msgstr "Summe"
 
 #: templates/orders/details.php:36
 msgid "Qty"
@@ -3379,19 +3379,19 @@ msgstr "Menge"
 
 #: templates/orders/details.php:32
 msgid "Item"
-msgstr ""
+msgstr "Artikel"
 
 #: templates/orders/details.php:7
 msgid "This is not yours, I swear!"
-msgstr ""
+msgstr "Dies ist nicht deins!"
 
 #: templates/orders/date-export.php:46
 msgid "Export Filtered"
-msgstr ""
+msgstr "Export gefiltert"
 
 #: templates/orders/date-export.php:45
 msgid "Export All"
-msgstr "Test"
+msgstr "Exportiere alles"
 
 #: templates/orders/date-export.php:35 templates/products/listing-filter.php:42
 msgid "Filter"
@@ -3426,7 +3426,7 @@ msgstr "Letzte Bestellungen"
 
 #: templates/global/seller-warning.php:12
 msgid "Your account is not enabled for selling, please contact the admin"
-msgstr ""
+msgstr "Dein Account ist nicht zum Verkauf berechtigt, bitte Admin kontaktieren."
 
 #: templates/global/seller-warning.php:11
 #: templates/products/new-product-single.php:135
@@ -3440,12 +3440,12 @@ msgstr "Ich bin ein Verkäufer"
 
 #: templates/global/seller-registration-form.php:65
 msgid "I am a customer"
-msgstr ""
+msgstr "Ich bin ein Kunde"
 
 #: templates/account/vendor-registration.php:70
 #: templates/global/seller-registration-form.php:52
 msgid "I have read and agree to the <a target=\"_blank\" href=\"%s\">Terms &amp; Conditions</a>."
-msgstr ""
+msgstr "Ich hab alles gelesen und stimme den AGBs zu."
 
 #: templates/account/vendor-registration.php:52
 #: templates/global/seller-registration-form.php:31
@@ -3471,7 +3471,7 @@ msgstr "Name des Shops:"
 
 #: templates/global/product-tab.php:11
 msgid "Vendor Information"
-msgstr ""
+msgstr "Verkäufer Informationen"
 
 #: templates/global/header-menu.php:59
 msgid "Sign Up"
@@ -3499,7 +3499,7 @@ msgstr "Shop besuchen"
 
 #: templates/global/header-menu.php:29
 msgid "Vendor Dashboard"
-msgstr ""
+msgstr "Verkäufer Dashboard"
 
 #: templates/global/header-menu.php:13
 msgid "Cart %s"
@@ -3507,7 +3507,7 @@ msgstr "Einkaufswagen %s"
 
 #: templates/dashboard/sales-chart-widget.php:15
 msgid "Sales this Month"
-msgstr ""
+msgstr "Verkäufe des Monats"
 
 #: templates/dashboard/products-widget.php:36
 msgid "Offline"
@@ -3523,7 +3523,7 @@ msgstr "+ Neues Produkt hinzufügen"
 
 #: templates/dashboard/orders-widget.php:51
 msgid "On hold"
-msgstr ""
+msgstr "Wartend"
 
 #: templates/dashboard/edit-account.php:91
 msgid "Save changes"
@@ -3531,15 +3531,15 @@ msgstr "Änderungen speichern"
 
 #: templates/dashboard/edit-account.php:80
 msgid "Confirm New Password"
-msgstr ""
+msgstr "Bestätige neues Passwort"
 
 #: templates/dashboard/edit-account.php:75
 msgid "New Password (leave blank to leave unchanged)"
-msgstr ""
+msgstr "Neues Passwort (leer lassen um nicht zu ändern)"
 
 #: templates/dashboard/edit-account.php:70
 msgid "Current Password (leave blank to leave unchanged)"
-msgstr ""
+msgstr "AKtuelles Passwort (leer lassen um nichts zu ändern)"
 
 #: templates/dashboard/edit-account.php:67
 msgid "Password Change"
@@ -3555,7 +3555,7 @@ msgstr "Vorname"
 
 #: templates/dashboard/edit-account.php:44
 msgid "Edit Account Details"
-msgstr ""
+msgstr "Ändere Account Informationen"
 
 #: templates/dashboard/big-counter-widget.php:25
 msgid "Pageview"
