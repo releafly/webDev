@@ -51,7 +51,7 @@ if($header_fullwidth){
                 <div class="col-lg-3 d-none d-md-none d-lg-block">
                     <div class="cd-dropdown-wrapper xs-vartical-menu">
                         <a class="cd-dropdown-trigger" href="#0">
-                            <i class="fa fa-list-ul"></i> <?php esc_html_e('All Categories','marketo')?>
+                            <i class="fa fa-list-ul"></i> <?php esc_html_e('Kategorien','releafly')?>
                         </a>
                         <nav class="cd-dropdown">
                             <h2><?php esc_html_e('Marketo','marketo')?></h2>

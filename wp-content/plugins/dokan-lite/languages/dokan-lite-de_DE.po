@@ -2,22 +2,25 @@
 # This file is distributed under the same license as the Plugins - Dokan Multivendor Marketplace - Development (trunk) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2018-03-08 16:03:11+0000\n"
+"PO-Revision-Date: 2018-08-23 11:13+0200\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: GlotPress/2.4.0-alpha\n"
+"X-Generator: Poedit 2.1.1\n"
 "Language: de\n"
 "Project-Id-Version: Plugins - Dokan Multivendor Marketplace - Development (trunk)\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
 
 #: includes/api/class-product-controller.php:2001
 msgid "Menu order, used to custom sort products."
-msgstr ""
+msgstr "Menü Anordnung um gewünschten Filter zu setzen."
 
 #: includes/api/class-product-controller.php:1993
 msgid "List of grouped products ID."
-msgstr ""
+msgstr "Liste von gruppierten Produkt IDs"
 
 #: includes/api/class-product-controller.php:1984
 msgid "List of variations IDs."
@@ -59,23 +62,23 @@ msgstr ""
 
 #: includes/api/class-product-controller.php:1914
 msgid "List of attributes."
-msgstr ""
+msgstr "Liste mit Attributen."
 
 #: includes/api/class-product-controller.php:1906
 msgid "Image position. 0 means that the image is featured."
-msgstr ""
+msgstr "Bild Position. 0 heißt, dass es sich um ein Beitragsbild handelt."
 
 #: includes/api/class-product-controller.php:1901
 msgid "Image alternative text."
-msgstr ""
+msgstr "Bild alternativer Text."
 
 #: includes/api/class-product-controller.php:1896
 msgid "Image name."
-msgstr ""
+msgstr "Bild Name."
 
 #: includes/api/class-product-controller.php:1890
 msgid "Image URL."
-msgstr ""
+msgstr "Bild URL."
 
 #: includes/api/class-product-controller.php:1884
 msgid "The date the image was last modified, as GMT."
@@ -1016,7 +1019,7 @@ msgstr ""
 
 #: languages/dokan-lite.php:19
 msgid "%s Withdrawals"
-msgstr ""
+msgstr "%s Einzüge"
 
 #: languages/dokan-lite.php:17
 msgid "%s Products"
@@ -1048,7 +1051,7 @@ msgstr ""
 
 #: includes/wc-template.php:230
 msgid "Go to Vendor Dashboard"
-msgstr ""
+msgstr "Zum Verkäufer Dashboard"
 
 #: includes/class-dokan-privacy.php:362
 msgid "Vendor %s data is removed."
@@ -1321,7 +1324,7 @@ msgstr ""
 
 #: includes/functions.php:2546
 msgid "View withdraw menu"
-msgstr ""
+msgstr "Einzüge"
 
 #: includes/functions.php:2545
 msgid "Vuew review menu"
@@ -1369,7 +1372,7 @@ msgstr ""
 
 #: includes/functions.php:2528
 msgid "Manage withdraw"
-msgstr ""
+msgstr "Verwalte Einzüge"
 
 #: includes/functions.php:2524 languages/dokan-lite.php:63
 msgid "Manage reviews"
@@ -1517,11 +1520,11 @@ msgstr ""
 
 #: includes/api/class-withdraw-controller.php:757
 msgid "Withdraw Notes"
-msgstr ""
+msgstr "Einzugsnotizen"
 
 #: includes/api/class-withdraw-controller.php:752
 msgid "Withdraw Method"
-msgstr ""
+msgstr "Abzugsmethode"
 
 #: includes/api/class-withdraw-controller.php:742
 msgid "The date the withdraw request has beed created in the site's timezone."
@@ -2580,7 +2583,7 @@ msgstr ""
 
 #: includes/admin/setup-wizard.php:489
 msgid "Minimum balance required to make a withdraw request ( Leave it blank to set no limits )"
-msgstr ""
+msgstr "Mindestbetrag um eine Einzugsanfrage zu erstellen"
 
 #. Description of the plugin/theme
 msgid "An e-commerce marketplace plugin for WordPress. Powered by WooCommerce and weDevs."
@@ -2596,7 +2599,7 @@ msgstr "Bestätigte Anfragen"
 
 #: templates/withdraw/status-listing.php:12
 msgid "Withdraw Request"
-msgstr ""
+msgstr "Einzugsanfrage"
 
 #: templates/withdraw/request-form.php:44
 msgid "Submit Request"
@@ -2608,7 +2611,7 @@ msgstr "Zahlungsmethode"
 
 #: templates/withdraw/request-form.php:16
 msgid "Withdraw Amount"
-msgstr ""
+msgstr "Einzugsbetrag"
 
 #: templates/widgets/widget-content-product.php:33
 msgid "No products found"
@@ -2686,7 +2689,7 @@ msgstr "Adresse finden"
 
 #: templates/settings/store-form.php:181
 msgid "Type an address to find"
-msgstr ""
+msgstr "Gib eine Adresse zur Suche ein"
 
 #: templates/settings/store-form.php:174
 msgid "Map"
@@ -3266,7 +3269,7 @@ msgstr "Gast"
 
 #: templates/orders/listing.php:67 templates/orders/listing.php:69
 msgid "Order %s"
-msgstr "Bestellung %s"
+msgstr "Bestellungen %s"
 
 #: templates/orders/listing.php:51 templates/orders/listing.php:125
 #: templates/products/new-product-single.php:532
@@ -3515,7 +3518,7 @@ msgstr "Offline"
 
 #: templates/dashboard/products-widget.php:31
 msgid "Live"
-msgstr ""
+msgstr "Live"
 
 #: templates/dashboard/products-widget.php:19
 msgid "+ Add new product"
@@ -3559,13 +3562,13 @@ msgstr "Ändere Account Informationen"
 
 #: templates/dashboard/big-counter-widget.php:25
 msgid "Pageview"
-msgstr ""
+msgstr "Seitenaufrufe"
 
 #: templates/dashboard/big-counter-widget.php:21
 #: templates/products/products-listing.php:91
 #: templates/products/products-listing.php:207
 msgid "Earning"
-msgstr ""
+msgstr "Einnahmen"
 
 #: templates/dashboard/big-counter-widget.php:17
 msgid "Sales"
@@ -3589,7 +3592,7 @@ msgstr "Einreichen & Deaktivieren"
 
 #: lib/class-wedevs-insights.php:621
 msgid "I rather wouldn't say"
-msgstr ""
+msgstr "Das würde ich nicht sagen"
 
 #: lib/class-wedevs-insights.php:607
 msgid "If you have a moment, please let us know why you are deactivating:"
@@ -3869,7 +3872,7 @@ msgstr "Abmelden"
 
 #: includes/template-tags.php:461 templates/global/header-menu.php:48
 msgid "Edit Account"
-msgstr ""
+msgstr "Konto bearbeiten"
 
 #: includes/template-tags.php:460 templates/settings/header.php:13
 #: templates/store-lists-loop.php:61
@@ -3891,7 +3894,7 @@ msgstr "Bestellungen"
 
 #: includes/template-tags.php:276
 msgid "Refunded (%d)"
-msgstr ""
+msgstr "Erstattet"
 
 #: includes/template-tags.php:262
 msgid "Cancelled (%d)"
@@ -3907,7 +3910,7 @@ msgstr ""
 
 #: includes/template-tags.php:220
 msgid "Processing (%d)"
-msgstr ""
+msgstr "In Bearbeitung (%d)"
 
 #: includes/template-tags.php:206
 msgid "Completed (%d)"
@@ -3942,7 +3945,7 @@ msgstr "&larr;"
 
 #: includes/reports.php:347
 msgid "Sales total"
-msgstr ""
+msgstr "Verkäufe gesamt"
 
 #: includes/product-functions.php:317
 msgid "Go to the last page"
@@ -4118,7 +4121,7 @@ msgstr "Fehlgeschlagen"
 #: classes/template-dashboard.php:107 includes/order-functions.php:495
 #: templates/dashboard/orders-widget.php:46
 msgid "Refunded"
-msgstr "Storniert"
+msgstr "Erstattet"
 
 #: includes/order-functions.php:480
 msgid "Pending Payment"
@@ -4327,7 +4330,7 @@ msgstr "Aktionen"
 #: templates/dashboard/products-widget.php:26 templates/my-orders.php:30
 #: templates/orders/order-fee-html.php:17 templates/sub-orders.php:28
 msgid "Total"
-msgstr ""
+msgstr "Gesamt"
 
 #: templates/orders/details.php:245
 msgid "Order Notes"
@@ -4337,7 +4340,7 @@ msgstr "Bestellhinweis"
 #: templates/orders/details.php:21 templates/orders/listing.php:45
 #: templates/orders/listing.php:65 templates/sub-orders.php:25
 msgid "Order"
-msgstr "Bestellung"
+msgstr "Bestellungen"
 
 #: includes/product-functions.php:201 languages/dokan-lite.php:74
 #: templates/my-orders.php:29 templates/orders/listing.php:47
@@ -4350,11 +4353,11 @@ msgstr "Status"
 #: classes/template-dashboard.php:106 includes/order-functions.php:500
 #: templates/dashboard/orders-widget.php:41
 msgid "Cancelled"
-msgstr ""
+msgstr "Storniert"
 
 #: languages/dokan-lite.php:68
 msgid "Withdraw Requests"
-msgstr ""
+msgstr "Einzugsanfrage"
 
 #: includes/admin/setup-wizard.php:543
 msgid "Learn More"
@@ -4374,13 +4377,13 @@ msgstr ""
 
 #: includes/admin/setup-wizard.php:497 includes/order-functions.php:485
 msgid "On-hold"
-msgstr ""
+msgstr "Wartend"
 
 #: classes/template-dashboard.php:105 includes/admin/setup-wizard.php:496
 #: includes/order-functions.php:490 templates/dashboard/orders-widget.php:36
 #: templates/orders/listing.php:135
 msgid "Processing"
-msgstr ""
+msgstr "In Bearbeitung"
 
 #: classes/template-dashboard.php:103 includes/admin/setup-wizard.php:495
 #: includes/order-functions.php:475 templates/dashboard/orders-widget.php:26
@@ -4389,11 +4392,11 @@ msgstr "Fertiggestellt"
 
 #: includes/admin/setup-wizard.php:493
 msgid "Order Status for Withdraw"
-msgstr ""
+msgstr "Status des Einzugs"
 
 #: includes/admin/setup-wizard.php:429
 msgid "Withdraw Setup"
-msgstr ""
+msgstr "Einzug einrichten"
 
 #: includes/admin/setup-wizard.php:364
 msgid "Make selling status enable for new registred vendor"
@@ -4521,15 +4524,15 @@ msgstr ""
 
 #: includes/admin/class-settings.php:351 includes/admin/setup-wizard.php:486
 msgid "Minimum Withdraw Limit"
-msgstr ""
+msgstr "Mindest Einzugsbetrag"
 
 #: includes/admin/class-settings.php:344
 msgid "Withdraw methods for vendors"
-msgstr ""
+msgstr "Einzugsmethoden für Verkäufer"
 
 #: includes/admin/class-settings.php:343 includes/admin/setup-wizard.php:433
 msgid "Withdraw Methods"
-msgstr ""
+msgstr "Einzugsmethoden"
 
 #: includes/admin/class-settings.php:328
 msgid "Disable add new product in popup view"
@@ -4627,7 +4630,7 @@ msgstr ""
 #: includes/admin/class-admin-pointers.php:203
 #: includes/admin/class-settings.php:200
 msgid "Withdraw Options"
-msgstr ""
+msgstr "Einzugsoptionen"
 
 #: includes/admin/class-admin-pointers.php:186
 #: includes/admin/class-settings.php:195
@@ -4646,7 +4649,6 @@ msgstr ""
 msgid "Dokan Dashboard"
 msgstr "Dokan-Dashboard"
 
-#. #-#-#-#-#  dokan-lite-code.pot (Dokan 2.8.5)  #-#-#-#-#
 #. Plugin Name of the plugin/theme
 #: includes/admin/class-admin.php:199 includes/admin/class-admin.php:245
 #: includes/class-dokan-privacy.php:24
@@ -4655,13 +4657,13 @@ msgstr "Dokan"
 
 #: includes/admin/class-admin.php:196
 msgid "Withdraw %s"
-msgstr ""
+msgstr "Einzug %s"
 
 #: includes/admin/class-admin.php:192 includes/admin/class-admin.php:203
 #: includes/admin/class-admin.php:261 includes/admin/setup-wizard.php:93
 #: includes/template-tags.php:324 templates/withdraw/header.php:11
 msgid "Withdraw"
-msgstr ""
+msgstr "Einzug"
 
 #: includes/admin/class-settings.php:158
 msgid "- select -"
@@ -4898,7 +4900,7 @@ msgstr "Entschuldigung, es wurde keine Transaktion gefunden."
 
 #: classes/template-withdraw.php:383
 msgid "You don't have sufficient balance for a withdraw request!"
-msgstr ""
+msgstr "Du hast nicht genug Guthaben um eine Einzugsanfrage zu erstellen."
 
 #: classes/template-withdraw.php:368
 msgid "Please submit your request after approval or cancellation of your previous request."
@@ -4906,11 +4908,11 @@ msgstr ""
 
 #: classes/template-withdraw.php:368
 msgid "You already have pending withdraw request(s)."
-msgstr ""
+msgstr "Du hast schon eine Einzugsanfrage erstellt."
 
 #: classes/template-withdraw.php:359
 msgid "You already withdrawed %s. This amount will deducted from your balance."
-msgstr ""
+msgstr "Du hast schon einen Einzug erstellt %s. Die Summe wird von deinem Guthaben abgezogen."
 
 #: classes/template-withdraw.php:327
 msgid "Unknown error!"
@@ -4926,12 +4928,12 @@ msgstr ""
 
 #: classes/template-withdraw.php:241
 msgid "withdraw method required"
-msgstr ""
+msgstr "Einzugsmethode notwendig"
 
 #: classes/template-withdraw.php:237
 #: includes/api/class-withdraw-controller.php:395
 msgid "Withdraw amount must be greater than %d"
-msgstr ""
+msgstr "Einzugsbetrag muss größer sein als  %d"
 
 #: classes/template-withdraw.php:235
 #: includes/api/class-withdraw-controller.php:391
@@ -4940,15 +4942,15 @@ msgstr "Ihr Kontostand ist für diese Anfrage zu gering"
 
 #: classes/template-withdraw.php:232
 msgid "Withdraw amount required "
-msgstr ""
+msgstr "Benötigter Einzugsbetrag"
 
 #: classes/template-withdraw.php:139
 msgid "<br>Withdraw Threshold: %d days "
-msgstr ""
+msgstr "<br>Einzugsschwelle erreicht in : %d days "
 
 #: classes/template-withdraw.php:136
 msgid "<br>Minimum Withdraw amount: %s "
-msgstr ""
+msgstr "<br>Minimum Einzugsbetrag: %s "
 
 #: classes/template-withdraw.php:133
 msgid "Current Balance: %s "
@@ -4998,7 +5000,7 @@ msgstr ""
 
 #: classes/template-settings.php:92
 msgid "These are the withdraw methods available for you. Please update your payment information below to submit withdraw requests and get your store payments seamlessly."
-msgstr ""
+msgstr "Dies sind deine verfügbaren Einzugsmethoden. Bitte aktualisiere unten deine Finanzdaten um Einzugsanfragen erstellen zu können."
 
 #: classes/template-settings.php:72
 msgid "Payment Settings"
@@ -5228,15 +5230,15 @@ msgstr ""
 
 #: includes/class-email.php:395
 msgid "[%s] Your Withdraw Request has been cancelled"
-msgstr ""
+msgstr "[%s] Deine Einzugsanfrage wurde abgelehnt"
 
 #: includes/class-email.php:371
 msgid "[%s] Your Withdraw Request has been approved"
-msgstr ""
+msgstr "[%s] Deine Einzugsanfrage wurde bewilligt"
 
 #: includes/class-email.php:349
 msgid "[%s] New Withdraw Request"
-msgstr ""
+msgstr "[%s] Neue Einzugsanfrage"
 
 #: includes/class-email.php:292
 msgid "[%s] New Refund Request"
@@ -5362,7 +5364,7 @@ msgstr "Löschen"
 #: classes/admin-withdraw.php:200 classes/admin-withdraw.php:205
 #: classes/template-dashboard.php:104 templates/dashboard/orders-widget.php:31
 msgid "Pending"
-msgstr "In Bearbeitung"
+msgstr "Ausstehend"
 
 #: classes/admin-withdraw.php:195 classes/admin-withdraw.php:199
 #: includes/product-functions.php:297 languages/dokan-lite.php:81
@@ -5431,7 +5433,7 @@ msgstr "Anfragen genehmigt!"
 
 #: classes/admin-withdraw.php:125
 msgid "Requests Cancelled!"
-msgstr "Anfragen abgebrochen!"
+msgstr "Anfragen storniert!"
 
 #: classes/admin-withdraw.php:121
 msgid "Requests Deleted!"

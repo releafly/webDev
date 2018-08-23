@@ -28,7 +28,7 @@ if ( ! empty( $_GET['customer_id'] ) ) { // WPCS: input var ok.
 <div class="dokan-order-filter-serach">
     <form action="" method="GET" class="dokan-left">
         <div class="dokan-form-group">
-            <input type="text" class="datepicker" style="width:120px; padding-bottom:7px" name="order_date" id="order_date_filter" placeholder="<?php _e( 'Filter by Date', 'dokan-lite' ); ?>" value="<?php echo isset( $_GET['order_date'] ) ? sanitize_key( $_GET['order_date'] ) : ''; ?>">
+            <input type="text" class="datepicker" style="width:120px; padding-bottom:7px; display:inline;" name="order_date" id="order_date_filter" placeholder="<?php _e( 'Filter by Date', 'dokan-lite' ); ?>" value="<?php echo isset( $_GET['order_date'] ) ? sanitize_key( $_GET['order_date'] ) : ''; ?>">
             <select name="customer_id" id="dokan-filter-customer" style="width:200px" class="dokan-form-control"  data-allow_clear="true" data-placeholder="<?php _e( 'Filter by Customer', 'dokan-lite' ); ?>">
                 <option value="<?php echo esc_attr( $user_id ); ?>" selected="selected"><?php echo wp_kses_post( $user_string ); ?><option>
             </select>
